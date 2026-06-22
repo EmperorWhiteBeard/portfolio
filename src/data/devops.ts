@@ -183,7 +183,7 @@ export const diagrams: DiagramItem[] = [
 export const timeline: TimelineItem[] = [
   {
     id: "tl-bca",
-    date: "2022 – 2025",
+    date: "2023 – 2026",
     title: "BCA Graduate",
     org: "Bachelor of Computer Applications",
     description: "Built a foundation in programming, networks, and systems before specializing toward cloud infrastructure.",
@@ -191,7 +191,7 @@ export const timeline: TimelineItem[] = [
   },
   {
     id: "tl-cisco",
-    date: "2024",
+    date: "2026",
     title: "Cisco Networking Fundamentals",
     org: "Cisco Networking Academy",
     description: "Studied core networking concepts that underpin cloud VPC and connectivity design.",
@@ -199,7 +199,7 @@ export const timeline: TimelineItem[] = [
   },
   {
     id: "tl-aws-learning",
-    date: "2025",
+    date: "2026",
     title: "AWS Learning Journey",
     org: "AWS Educate & AWS Skill Builder",
     description: "Cloud Practitioner Essentials, Generative AI, and Machine Learning Foundations completed back to back.",
